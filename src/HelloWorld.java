@@ -7,7 +7,7 @@ public class HelloWorld {
     pen.println("Hello, GitHub!!");
     pen.flush();
 
-    pen.println("Goodbye, GitHub!!");
+    pen.println("Hello again, GitHub!!");
     pen.flush();
 
   } // main (String[])
